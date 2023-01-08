@@ -1,0 +1,14 @@
+body {
+    background-color:black;
+}
+h1 {
+    color:red;
+    text-align: center;
+}
+h2 {
+    color:red;
+    text-align: center;
+}
+header {
+    border: 1px solid red;
+}
